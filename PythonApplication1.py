@@ -41,9 +41,6 @@ while loop:
             print(
                 "Your purchase does not apply for our discount, if you wish, you could add more items!"
             )
-            print(
-                "Your purchase does not apply for our discount, if you wish, you could add more items!"
-            )
             print(Total)
             loop = True
         elif Total >= 100:
